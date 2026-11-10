@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Stocks & Heatmaps",
+  "description": "Stock market overview, interactive heatmaps, candlestick charts, sector performance, and market movers inspired by TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
